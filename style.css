@@ -1,0 +1,43 @@
+header
+{
+    background-color: rgb(33, 33, 216);
+    color: white;
+    text-align: center;
+    padding-top: 2px;
+    padding-bottom: 10px;
+}
+footer{
+    background-color: rgb(34, 34, 201);
+    color: white;
+    text-align:center;
+    padding: 1px;
+}
+a
+{
+    color: white;
+    margin: 10px;
+    text-decoration: none;
+}
+h2{
+    color: blue;
+}
+
+div{
+    margin: 20px;
+}
+img
+{
+    border-radius:10px
+}
+input,textarea
+{
+    width: 95%;
+    padding: 7px;
+    margin: 20px 0px 20px 0px;
+}
+input[type="submit"]
+{
+    background:blue;
+    color: white;
+    width: 96%;
+}
